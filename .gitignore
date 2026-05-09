@@ -46,8 +46,7 @@ Thumbs.db
 # --- Custom Ignored Files ---
 
 # Ignored Directories
-runtume_juypters/
-runtine_juypters/
+
 
 # Ignore Python files except screen.py
 *.py
