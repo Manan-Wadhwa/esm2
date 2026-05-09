@@ -1,0 +1,74 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Custom Ignored Files ---
+
+# Ignored Directories
+runtume_juypters/
+runtine_juypters/
+
+# Ignore Python files except screen.py
+*.py
+!screen.py
+
+# Ignore Markdown files except README.md
+*.md
+!README.md
+
+# Ignore LaTeX and intermediate files
+*.tex
+*.aux
+*.log
+*.out
+
+# Ignore zip files
+*.zip
+
+# Ignore temp files
+temp.js
+node_modules/
+package-lock.json
+package.json
+*.pptx
