@@ -1,9 +1,3 @@
-# Toxin Circuits in ESM-2: Full Experimental Report
-
-**AiXbio Research · AIxBio Hackathon 2026 · April 27, 2026**
-
----
-
 ## Executive Summary
 
 This report synthesises the complete experimental pipeline across **15 Jupyter notebooks**, producing a mechanistic explanation of why ESM-2 linear probes resist ProteinMPNN-based toxin redesign. The key result: **BLAST detects 0% of redesigned toxins; the ESM-2 probe detects 93.9%** — a 93.9 percentage-point gap. We explain this gap through SAE circuit analysis, adversarial attack taxonomy, and zero-shot threat discovery, establishing ESM-2 probes as a viable biosecurity screening tool.
@@ -530,7 +524,3 @@ Cosine(probe_weight, mean_diff_vector) = 0.2326
 | `11_hero_experiments copy.ipynb` | SAE double-evader recovery (Hero 2b), rigorous validation |
 
 ---
-
-*Report generated: April 27, 2026 · AiXbio Research*
-#   e m s 2  
- 
